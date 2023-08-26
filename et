@@ -1,0 +1,50 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex a98f06f..1d0b4bd 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -45,8 +45,8 @@[m
+ 			<article id="work" class="wrapper style2">[m
+ 				<div class="container">[m
+ 					<header>[m
+[31m-						<h2>Here's my porfolio other related things i do.</h2>[m
+[31m-						<p>If my skills meet your requirements, i would love to see can work together, please send me an email.</p>[m
+[32m+[m						[32m<h2>Here's my porfolio and other related things I do.</h2>[m
+[32m+[m						[32m<p>If my skills meet your requirements, I would love to see how we can work together, please send me an email.</p>[m
+ 					</header>[m
+ 					<div class="row aln-center">[m
+ 						<div class="col-4 col-6-medium col-12-small">[m
+[36m@@ -67,7 +67,7 @@[m
+ 							<section class="box style1">[m
+ 								<span class="icon featured fa-thumbs-up"></span>[m
+ 								<h3>Knowledge Sharing</h3>[m
+[31m-								<p>I share my data anlaysis knowedge and lessons  by writing regularly online, this helps me improve my skills and help a lot of people in the process</p>[m
+[32m+[m								[32m<p>I share my data anlaysis knowedge and lessons by writing regularly online, this helps me improve my skills and help a lot of people in the process</p>[m
+ 							</section>[m
+ 						</div>[m
+ 					</div>[m
+[36m@@ -83,7 +83,7 @@[m
+ 				<div class="container">[m
+ 					<header>[m
+ 						<h2>My Portfolio Projects.</h2>[m
+[31m-						<p>Various projects i worked on using excel, sql, tableau and python.</p>[m
+[32m+[m						[32m<p>Various projects i worked on using excel, SQL, tableau and python.</p>[m
+ 					</header>[m
+ 					<div class="row">[m
+ 						<div class="col-4 col-6-medium col-12-small">[m
+[36m@@ -104,14 +104,14 @@[m
+ 							<article class="box style2">[m
+ 								<a href="#" class="image featured"><img src="images/data viz.jpg" alt="" /></a>[m
+ 								<h3><a href="#">Visualisation Project</a></h3>[m
+[31m-								<p>Here i used Tableau to create visualisations for Air bnb's revenue </p>[m
+[32m+[m								[32m<p>Here I used Tableau to create visualisations for Air bnb's revenue </p>[m
+ 							</article>[m
+ 						</div>[m
+ 						<div class="col-4 col-6-medium col-12-small">[m
+ 							<article class="box style2">[m
+ 								<a href="#" class="image featured"><img src="images/bike sales.png" alt="" /></a>[m
+ 								<h3><a href="https://github.com/ajoke2020/PortfolioProjects/blob/main/air%20bnb%20dashboard%20by%20Ajoke.png">Sales Dashboard</a></h3>[m
+[31m-								<p>Here i used Excel to create a dashboard for a company's bikesales</p>[m
+[32m+[m								[32m<p>Here I used Excel to create a dashboard for a company's bikesales</p>[m
+ 							</article>[m
+ 						</div>[m
+ 						<div class="col-4 col-6-medium col-12-small">[m
